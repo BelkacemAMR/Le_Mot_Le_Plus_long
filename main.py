@@ -6,7 +6,7 @@ def longest_word(text):
             mot = x
     return mot
 
-# On test la fonction :
+# On teste la fonction :
 
 # Les chaînes de caractères à tester
 
